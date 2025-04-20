@@ -1,8 +1,8 @@
-# KCDD - KNRL Communications & Development Division
+# KRC - KNRL Research & Development 
 ---
-## The KNRL Communications & Development Division is responsible for creating and maintaining KNRL games and other releases.
+## The KNRL Research & Development is responsible for creating and maintaining KNRL games and other releases.
 
-### KCDD Staff
+### KRD Staff
 - Erin@.Aaron227 - KNRL Director
-- East@Eastren_Dev - KCDD Director
+- East@Eastren_Dev - KRD Director
 - Frost@west7014 - Developer
